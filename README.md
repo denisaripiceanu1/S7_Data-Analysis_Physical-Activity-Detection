@@ -1,6 +1,6 @@
 # S7 - Data Analysis - Physical Activity Detection
 
-ENSEEIHT (S7), in pair
+ENSEEIHT, in pair
 
 Project report and Jupyter Notebook
 This project was carried out in pairs during the 7th semester at ENSEEIHT. The main objective was to predict five different human physical activities (such as standing, walking, cycling, vacuuming, and ironing). To achieve this, we analyzed and classified time-series signals extracted from accelerometer sensors placed on a user's chest and ankle.   
